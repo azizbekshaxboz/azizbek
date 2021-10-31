@@ -1,0 +1,37 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color:gold;
+}
+.aziz{
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+.A{
+    margin: 0px;
+    padding: 0px;
+    border-radius: 5px;
+    text-align: center;
+}
+.azizbek{
+    text-align: center;
+}
+@media all and(max-width:500px){
+    .aziz{
+        margin: 10px;
+        padding: 5px;
+        text-align: center;
+    }
+    .A{
+        margin: 0px;
+        padding: 0px;
+        border-radius: 5px;
+        text-align: center;
+    }
+    .azizbek{
+        text-align: center;
+    }
+
+}
